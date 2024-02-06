@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceChatFix", "VoiceChatFix.csproj", "{07869626-6A6A-4CBC-98E1-19456C45BF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07869626-6A6A-4CBC-98E1-19456C45BF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07869626-6A6A-4CBC-98E1-19456C45BF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07869626-6A6A-4CBC-98E1-19456C45BF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07869626-6A6A-4CBC-98E1-19456C45BF63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2829796D-3FA4-4D8F-88A2-BCFA8D773410}
+	EndGlobalSection
+EndGlobal
